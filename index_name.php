@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="regues.php">Регстрация</a>
-    <a href="login.php">Войти</a>
+    <a href="addif.php">Созать заяки</a>
+    <a href="vis.php">Заяки</a>
 </body>
 </html>
