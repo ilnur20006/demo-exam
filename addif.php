@@ -39,6 +39,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/stype.css">
     <title>Document</title>
 </head>
 <body>
@@ -69,5 +70,6 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
             <textarea class="block" name="dlock"  id="other_blokc"></textarea>
             <button type="submit">Отправить заявку</button>
     </form>
+    <script src="js/stype.js"></script>
 </body>
 </html>
