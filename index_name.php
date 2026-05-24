@@ -3,13 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="">
+    
     <title>Document</title>
 </head>
 <body>
-    <div class="munu">
-        
-    </div>
     <a href="addif.php">Созать заяки</a>
     <a href="vis.php">Заяки</a>
 </body>
